@@ -4,6 +4,10 @@
     gap: .25rem;
 }
 
+h1 {
+    font-weight: 900;
+}
+
 input {
     font-size: 1rem;
     border-radius: 4px;
